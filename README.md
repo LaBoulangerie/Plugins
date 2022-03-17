@@ -14,8 +14,8 @@
 |     ✅     |       goBrush ⛏       | https://www.spigotmc.org/resources/gobrush.23118/history                                                           |
 |     ✅     |       goPaint ⛏       | https://www.spigotmc.org/resources/gopaint.27717/history                                                           |
 |     ✅     |         Gsit          | https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/history |
-|     ❌     |   LaBoulangerieCore   | https://github.com/TownyAdvanced/WorldGuard-Towny/releases                                                         |
-|     ❌     |   LaBoulangerieMMO    | https://github.com/TownyAdvanced/WorldGuard-Towny/releases                                                         |
+|     ❌     |   LaBoulangerieCore   | https://github.com/LaBoulangerie/Plugins/blob/master/LaBoulangerieCore.jar                                          |
+|     ✅     |   LaBoulangerieMMO    | https://github.com/LaBoulangerie/Plugins/blob/master/LaBoulangerieMmo.jar                                          |
 |     ✅     |       Luckperms       | https://luckperms.net/download                                                                                     |
 |     ✅     |       MapTowny        | https://github.com/TownyAdvanced/MapTowny/releases                                                                 |
 |     ⚠️     |    MultiverseCore     | https://dev.bukkit.org/projects/multiverse-core/files                                                              |
