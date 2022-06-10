@@ -12,7 +12,7 @@
 |     ⚠️     |        FAVS ⛏         | https://dev.bukkit.org/projects/favs/files                                                                         |
 |     ✅     |         FAWE          | https://www.spigotmc.org/resources/fast-async-worldedit.13932/history                                              |
 |     ✅     |       goBrush ⛏       | https://www.spigotmc.org/resources/gobrush.23118/history                                                           |
-|     ✅     |       goPaint ⛏       | https://www.spigotmc.org/resources/gopaint.27717/history                                                           |
+|     ✅     |       goPaint ⛏      | https://www.spigotmc.org/resources/gopaint.27717/history                                                           |
 |     ✅     |         Gsit          | https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/history |
 |     ✅     |   LaBoulangerieCore   | https://github.com/LaBoulangerie/Plugins/blob/master/LaBoulangerieCore.jar                                         |
 |     ✅     |   LaBoulangerieMMO    | https://github.com/LaBoulangerie/Plugins/blob/master/LaBoulangerieMmo.jar                                          |
@@ -26,7 +26,7 @@
 |     ✅     | SquareMap + LiveAtlas | https://dev.bukkit.org/projects/worldguard/ + https://github.com/JLyne/LiveAtlas/releases                          |
 |     ✅     |        Staff++        | https://staffplusplus.org/                                                                                         |
 |     ✅     |    Staff++ Discord    | https://www.spigotmc.org/resources/staff-discord-integration.83871/history                                         |
-|     ✅     |          TNE          | https://github.com/TheNewEconomy/TNE-Bukkit/releases                                                               |
+|     ✅     |       Gringotts       | https://github.com/LaBoulangerie/Gringotts                                                                         |
 |     ✅     |         Towny         | https://github.com/TownyAdvanced/Towny/releases                                                                    |
 |     ✅     |    TownyChatRemake    | https://github.com/TownyAdvanced/WorldGuard-Towny/releases                                                         |
 |     ❌     |         Vault         | https://github.com/MilkBowl/Vault/releases                                                                         |
