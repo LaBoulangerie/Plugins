@@ -28,8 +28,8 @@
 |     ✅     |    Staff++ Discord    | https://www.spigotmc.org/resources/staff-discord-integration.83871/history                                         |
 |     ✅     |       Gringotts       | https://github.com/LaBoulangerie/Gringotts                                                                         |
 |     ✅     |         Towny         | https://github.com/TownyAdvanced/Towny/releases                                                                    |
-|     ✅     |    TownyChatRemake    | https://github.com/TownyAdvanced/WorldGuard-Towny/releases                                                         |
-|     ❌     |         Vault         | https://github.com/MilkBowl/Vault/releases                                                                         |
+|     ✅     |    TownyChatRemake    | https://github.com/LaBoulangerie/TownyChatRemake                                                                   |
+|     ✅     |         Vault         | https://github.com/MilkBowl/Vault/releases                                                                         |
 |     ✅     |      WorldBorder      | https://www.spigotmc.org/resources/worldborder.60905/history                                                       |
 |     ✅     |      WorldGuard       | https://dev.bukkit.org/projects/worldguard/files                                                                   |
 |     ✅     |   WorldGuard-Towny    | https://github.com/TownyAdvanced/WorldGuard-Towny/releases                                                         |
