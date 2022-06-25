@@ -19,4 +19,6 @@ jobs:
           cd /var/lib/pterodactyl/volumes/17c68f95-a61e-4a28-b696-8b1f7916bb0a/plugins
           git config --global user.email "${{ secrets.GH_EMAIL }}"
           git config --global user.name "${{ secrets.GH_USER }}"
+          git stash
           git pull
+          git stash pop
