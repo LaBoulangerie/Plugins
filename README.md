@@ -8,10 +8,6 @@
 |     ✅     |      CoreProtect      | https://github.com/PlayPro/CoreProtect/releases                                                                    |
 |     ✅     |      DiscordSRV       | https://github.com/DiscordSRV/DiscordSRV/releases                                                                  |
 |     ✅     |       EventWar        | Towny sponsor plugin: #eventwar-beta                                                                               |
-|     ✅     |        FAVS ⛏         | https://dev.bukkit.org/projects/favs/files                                                                         |
-|     ✅     |         FAWE          | https://www.spigotmc.org/resources/fast-async-worldedit.13932/history                                              |
-|     ⚠️     |       goBrush ⛏       | https://ci.athion.net/job/goBrush-1.13+/                                                                           |
-|     ⚠️     |       goPaint ⛏       | https://ci.athion.net/job/goPaint-1.14+/                                                                           |
 |     ⚠️     |       Gringotts       | https://github.com/nikosgram/gringotts/releases/                                                                   |
 |     ✅     |         Gsit          | https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-x-1-19-x.62325/history |
 |     ✅     |   LaBoulangerieCore   | https://github.com/LaBoulangerie/Plugins/blob/master/LaBoulangerieCore.jar                                         |
